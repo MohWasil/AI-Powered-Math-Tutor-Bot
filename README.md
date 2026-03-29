@@ -1,6 +1,6 @@
 # AI-Powered Tutor Bot
 
-**AI-Powered Tutor Bot** is an interactive web application that acts as a personal tutor. Powered by a Python backend AI agent, it delivers dynamic, structured learning modules that combine lessons, engaging animations, and immediate quizzes to reinforce comprehension and key concepts.
+**AI-Powered Tutor Bot** is an interactive web application that acts as a Calculator. Powered by a Python backend AI LLM, it delivers dynamic, structured learning modules that combine lessons, engaging animations, and immediate quizzes to reinforce comprehension and key concepts.
 
 This project showcases a modern approach to education, integrating active learning, formative assessments, and a conversational interface to make learning effective and engaging.
 
@@ -8,7 +8,7 @@ This project showcases a modern approach to education, integrating active learni
 
 ## 🚀 Features
 
-- Dynamic lesson generation using AI
+- Dynamic Math using AI
 - Interactive quizzes for immediate feedback
 - Simple conversational interface
 - Modular design with a Python backend and HTML/CSS/JS frontend
